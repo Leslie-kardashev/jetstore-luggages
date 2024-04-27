@@ -38,10 +38,9 @@ export const HomeBanner = () => {
                     </Content>
                     <div className="mt-6 mb-16 text-center">
                         <ButtonGroup alignment="center">
-                            <Button href="#features">Login</Button>
                             <a
                                 role="button"
-                                href="#"
+                                href="tel:0545128080"
                                 className="btn btn--secondary"
                             >
                                 Book Now

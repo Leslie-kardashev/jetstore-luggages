@@ -31,7 +31,7 @@ export const Header = () => {
                     <ButtonGroup className="hidden md:block">
                         <a
                             role="button"
-                            href="#"
+                            href="tel:0545128080"
                             className="btn btn--secondary ml-4"
                         >
                             Book Now

@@ -22,23 +22,8 @@ const DATA = [
         title: "Company",
         items: [
             {
-                label: "About",
-                href: "#",
-                target: "_blank"
-            },
-            {
-                label: "Twitter",
-                href: "#",
-                target: "_blank"
-            },
-            {
                 label: "Instagram",
-                href: "#",
-                target: "_blank"
-            },
-            {
-                label: "Facebook",
-                href: "#",
+                href: "https://www.instagram.com/international.kkp/",
                 target: "_blank"
             }
         ]
@@ -71,7 +56,7 @@ export const Footer = () => {
                                 <ButtonGroup alignment="left">
                                     <a
                                         role="button"
-                                        href="#"
+                                        href="tel:0545128080"
                                         className="btn btn--secondary"
                                     >
                                         Book Now
